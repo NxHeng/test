@@ -47,7 +47,7 @@ public class Lap_Report_2_Q1 {
             value = ((arr[(n/2) - 1] + arr[((n + 2)/2) - 1]) / (double)2);
             System.out.println("Median = " + value);
         }
-        
+        System.out.println("hello world");
     }
     
 }
